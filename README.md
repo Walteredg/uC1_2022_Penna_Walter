@@ -12,7 +12,11 @@ Lenguaje: AMS - C
 Practicas entregadas:
 
 Librería para implementación de retardos
+
 Practica 1
+
 Practica 2
+
 practica 3
+
 UNIVERSIDAD NACIONAL DE PIURA, PERÚ
